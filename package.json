@@ -33,7 +33,7 @@
     "@types/socket.io-client": "^1.4.32",
     "@vue/cli-plugin-pwa": "^3.9.0",
     "@vue/cli-plugin-typescript": "^3.9.0",
-    "@vue/cli-service": "^3.9.0",
+    "@vue/cli-service": "^5.0.8",
     "module-alias": "^2.2.0",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
